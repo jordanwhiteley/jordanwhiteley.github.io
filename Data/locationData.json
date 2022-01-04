@@ -1,11 +1,18 @@
-{
-    "locations": [
+
+   [
       {
         "id": "18YC4JDH91E1H",
         "name": "Grant Park",
         "status": "ACTIVE",
         "merchant_id": "3MYCJG5GVYQ8Q",
         "business_name": "Jet Fuel Coffee"
+      },
+      {
+        "id": "883737337",
+        "name": "boca raton",
+        "status": "ACTIVE",
+        "merchant_id": "modmed",
+        "business_name": "derm"
       }
     ]
-  }
+  
